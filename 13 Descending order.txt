@@ -1,5 +1,3 @@
-
-
 LOOP: LXI H,3500
 MVI D,00
 MVI C,05
